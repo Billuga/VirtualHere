@@ -1,2 +1,2 @@
-# VirtualHere server install and uninstall script Pi4 64-bit raspbian
+# VirtualHere server install script Pi4 64-bit raspbian
 
